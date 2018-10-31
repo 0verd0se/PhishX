@@ -1,3 +1,5 @@
+Unoffocial repository of PhishX. --Major error fixed by https://www.youtube.com/watch?v=V2-bAm2gDpI Thank you :D
+
 # PhishX
 
 Copyright 2018 PhishX
